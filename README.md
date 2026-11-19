@@ -45,18 +45,6 @@ Django REST Framework
 Django CORS Headers
 Banco de dados
 PostgreSQL
-📂 Estrutura do projeto
-Plain Text
-Cadastro/
-│
-├── backend/
-│ ├── manage.py
-│ ├── backend/
-│ └── usuarios/
-│
-└── frontend/
-├── src/
-└── public/
 📚 Objetivos de aprendizado
 
 Este projeto foi desenvolvido para praticar:
